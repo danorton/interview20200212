@@ -2,7 +2,7 @@
 Interview coding test in Java
 
 ```java
-// Provide the implementation for this LRU cache interface.
+// Provide the implementation for this LRU cache generic interface.
 // Keys are unique
 // Cache size is limited
 // MRU is set for both get and put
