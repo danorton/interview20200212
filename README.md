@@ -7,7 +7,7 @@ Interview coding test in Java
 // Cache size is limited
 // MRU is set for both get and put
 public interface LRUCache<K, V> {
-    abstract public V get(K k);
-    abstract public void put(K k, V v);
+    V get(K k);
+    void put(K k, V v);
 }
 ```
