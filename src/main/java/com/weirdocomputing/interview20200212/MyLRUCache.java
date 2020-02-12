@@ -8,7 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 
 /**
- * Template class for LRU implementation
+ * Generic class for LRU implementation
  * © 2020 Daniel Norton
  * @param <K> key
  * @param <V> value

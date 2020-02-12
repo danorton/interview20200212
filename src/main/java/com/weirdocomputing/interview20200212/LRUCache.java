@@ -1,6 +1,6 @@
 package com.weirdocomputing.interview20200212;
 
-// Provide the implementation for this LRU cache class.
+// Provide the implementation for this LRU cache generic interface.
 // Keys are unique
 // Cache size is limited
 // MRU is set for both get and put
